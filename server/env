@@ -1,3 +1,0 @@
-MONGO_URL = mongodb+srv://admin:admin@sarthakcluster.p1twlwb.mongodb.net/?retryWrites=true&w=majority
-JWT_SECRET = 'somesuperhardstring'
-PORT = 3001
